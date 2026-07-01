@@ -48,16 +48,17 @@ I am a passionate **Full-Stack Web Developer** and **Senior Frontend Architect**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashank9998&show_icons=true&theme=tokyonight&description_color=7e7e7e" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YShashank9998&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank9998&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank9998&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashank9998&theme=tokyonight" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shashank9998&theme=github-dark-blue&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank9998&theme=tokyonight&row=1&column=7&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank9998&theme=discord&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
