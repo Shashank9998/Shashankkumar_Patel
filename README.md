@@ -48,17 +48,29 @@ I am a passionate **Full-Stack Web Developer** and **Senior Frontend Architect**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank9998&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashank9998&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank9998&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashank9998&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Shashank9998&theme=github-dark-blue&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=Shashank9998&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shashank9998&theme=discord&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank9998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank9998&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shashank9998&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,python,django,mysql,sqlite,git,github,vscode,postman"/>
 </p>
 
 ---
