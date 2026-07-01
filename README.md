@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shashankkumarpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shashankkumarpatel9977@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Shashank9998"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -45,35 +45,19 @@ I am a passionate **Full-Stack Web Developer** and **Senior Frontend Architect**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗 SP Steel & Iron Platform
-> A robust industrial B2B enterprise web application featuring an immersive **3D hero section**, complex data visualization, and an advanced admin management dashboard.
-*   **Stack:** React.js, Vite, Three.js, Tailwind CSS, Django REST Framework, MySQL.
-
-### 📚 Bookstore Inventory & POS SaaS
-> A full-scale Inventory Management System equipped with a sleek SaaS-style dashboard, a point-of-sale (POS) sales UI, and a client-facing storefront.
-*   **Stack:** React.js, Tailwind CSS, Django, SQLite, Role-Based Access Control (RBAC).
-
-### 🛒 Next-Gen E-Commerce Eco-system
-> A high-performance digital storefront utilizing secure JWT authentication, full CRUD capabilities, and a deep admin panel metrics tracker.
-*   **Stack:** React.js, Django, MySQL, REST APIs, Bootstrap.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&description_color=7e7e7e" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashank9998&show_icons=true&theme=tokyonight&description_color=7e7e7e" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YShashank9998&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shashank9998&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashank9998&theme=tokyonight&row=1&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
